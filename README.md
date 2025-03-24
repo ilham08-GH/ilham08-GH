@@ -1,6 +1,6 @@
 <h1>Hi , I'm Muhammad Ilham Adila Almafaz </h1>
-<p>A Informatics Engineering students from Universitas Trunojoyo Madura</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<p>An Informatics Engineering Student From Universitas Trunojoyo Madura</p>
+<h2>🚀Programming Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a>
